@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 LIVE DEMO: UDP Performance Test
 Shows real-time output suitable for presentation
